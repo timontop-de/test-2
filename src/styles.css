@@ -11,6 +11,18 @@ body {
   line-height: 1.6;
 }
 
+.countdown {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  background: #222;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  z-index: 1000;
+}
+
 .hero {
   text-align: center;
   padding: 4rem 1rem;
@@ -32,6 +44,12 @@ body {
 
 .cta:hover {
   background: #21a1f1;
+}
+
+.about, .skills {
+  padding: 2rem 1rem;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .projects {
@@ -72,4 +90,3 @@ footer {
   from { opacity: 0; }
   to { opacity: 1; }
 }
-

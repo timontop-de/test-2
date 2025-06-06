@@ -1,6 +1,11 @@
 # Developer Portfolio
 
-Dies ist eine Beispiel-Webseite für ein modernes Developer-Portfolio mit einfachen Animationen. Die Seite befindet sich im Ordner `src`.
+Dieses kleine Projekt demonstriert eine moderne Portfolio-Webseite mit einfachen Animationen und einem Countdown-Timer. Alle Dateien liegen im Ordner `src`.
 
 ## Vorschau
-Öffne die Datei `src/index.html` in einem Browser, um die Seite zu betrachten.
+
+1. Klone das Repository oder lade es herunter.
+2. Öffne `src/index.html` in einem Browser.
+3. Oben links wird ein Countdown angezeigt, der die verbleibende Zeit bis zum 15.06.2025 herunterzählt.
+
+Die Seite enthält Beispielbereiche für eine Vorstellung, Projekte und Fähigkeiten. Beim Scrollen werden die Projektkarten animiert eingeblendet.
